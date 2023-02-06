@@ -6,6 +6,9 @@ adding movies to favorite list for the convenience of reviewing their informatio
 I've also included the feature to switch the display mode between card and list view, and search bar function that allows users to view the movies which match
 the keywords inputed in the search bar.
 
+## Installation
+This project is a relative simple comcept, you can check the static page following this link: https://phoenix850508.github.io/MovieList-AC/
+
 ## Featuers
 ### Searching
 Input keywords in the search bar, and the movie titles that match the input keyword will be shown at the index page.
